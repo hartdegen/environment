@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/hartdegen/environment/issues"
   },
-  "homepage": "https://github.com/hartdegen/environment#readme"
+  "homepage": "https://github.com/hartdegen/environment#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
 }
